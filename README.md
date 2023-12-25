@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kurdock
-- 👀 I’m interested in learning programming in general and specialising later on.
-- 🌱 I’m currently learning full stack web development via The Odin Project.
+- 👋 Hi, I’m Iain!
+- 👀 I’m interested in learning programming in general and specialising in legal technology later on.
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
